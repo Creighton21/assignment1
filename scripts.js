@@ -1,3 +1,9 @@
+function test_print(){
+
+         console.log(“test code”)
+
+}
+
 $(function () {
   /*
   Get the all users information and display them in a table
